@@ -8,3 +8,5 @@ __pycache__/
 venv/
 .venv/
 *.zip
+arxiv-metadata-oai-snapshot.json
+arxiv-metadata-oai-snapshot.textClipping
